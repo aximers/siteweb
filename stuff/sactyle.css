@@ -1,0 +1,13 @@
+*{margin:0; padding:0;}
+
+html{font-size:17px;}
+
+.axim{background-color:#171b1c; color:#f2ebe3; display:flex; flex-direction:column; justify-content:center; align-items:center; height:100vh; font-size:2em;}
+
+.aximers{font-size:5em; padding:2vh;}
+
+.telegram{background:linear-gradient(rgba(36, 161, 221, 0.3), rgba(36, 161, 221, 0.1)); padding:10px; border-radius:57px;}
+
+.telegram img{width:2em; vertical-align:middle; padding:0; margin-right:0.5em;}
+
+.telegram a{text-decoration:none; color:#24a1dd; font-size:1.5em; display:flex; align-items:center;}

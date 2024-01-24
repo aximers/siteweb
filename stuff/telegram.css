@@ -1,0 +1,13 @@
+*{margin:0; padding:0;}
+
+html, body{height:100%;}
+
+body{background-color:#24a1dd; display:flex; justify-content:center; align-items:center;}
+
+.telegram{color:#171b1c; font-size:2em; text-align:center;}
+
+.telegram a{color:#171b1c; font-weight:bold;}
+
+@media only screen and (max-width: 600px){
+    .telegram{font-size:1.5em;}
+}
